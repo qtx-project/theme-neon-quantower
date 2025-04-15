@@ -1,0 +1,73 @@
+:root {
+  --primaryBGColor: #000000;
+  --secondaryBGColor: #171717;
+  --middleBGColor: #2F2F2F;
+  --primaryBorderColor: #505050;
+  --secondaryBorderColor: #252E37;
+  --primaryTextColor: #BAC7D7;
+  --secondaryTextColor: #6E7780;
+  --activeTextColor: #FFFFFF;
+
+  --accentTextColor: #6EDEFA;
+  --disabledTextColor: #3E4954;
+
+  --infoColor: #6EDEFA;
+  --dangerColor: #FB5757;
+  --warningColor: #FFF40D;
+  --successColor: #00B259;
+  --successHoverColor: #32DB87;
+
+  --accentColor: #00566C;
+  --accentHoverColor: #0782A0;
+
+  --buyColor: #40A100;
+  --buyColorHover: #7AFFE4;
+  --buyColorActive: #51C2AB;
+
+  --sellColor: #FF1B00;
+  --sellColorHover: #FF9B78;
+  --sellColorActive: #C74A1E;
+
+  --statusWarningColor: #FFEA5B;
+  --statusActiveColor: #1EBB2C;
+  --statusOtherColor: #FF1B00;
+
+  --contextMenuBGColor: #00566C;
+  --contextMenuBGHoverColor: #0782A0;
+  --contextMenuTextColor: #FFFFFF;
+  --contextMenuTextDisabledColor: #0782A0;
+
+  --windowBGColor: ;
+  --windowBorderExternalColor: ;
+  --windowBorderInternalColor: ;
+  --windowBorderFocusedColor: #6EDEFA;
+
+  --link1Color: #FB5757;
+  --link2Color: #78C4FF;
+  --link3Color: #1EBB2C;
+  --link4Color: #FFF40D;
+  --link5Color: #E37DFF;
+
+  --panelsApp: #d3d3d3;
+  --panelsBinds: #6bc6ff;
+  --panelsAnalytics: #2cf7f7;
+  --panelsTrading: #a6ff98;
+  --panelsPortfolio: #ffe483;
+  --panelsInformational: #ff9e9e;
+  --panelsMisc: #e2a7fd;
+}
+
+:root {
+  --custom-accent-text-color: rgba(110, 222, 250, 0.3);
+  --custom-status-warning-color: rgba(255, 234, 91, .3);
+  --custom-status-active-color: rgba(30, 187, 44, .3);
+  --custom-status-other-color: rgba(255, 27, 0, .3);
+  --custom-panels-app: rgba(211, 211, 211, .3);
+  --custom-panels-binds: rgba(74, 162, 217, .2);
+  --custom-panels-analytics: rgba(18, 182, 182, 0.2);
+  --custom-panels-trading: rgba(122, 211, 109, 0.2);
+  --custom-panels-portfolio: rgba(205, 179, 86, 0.2);
+  --custom-panels-informational: rgba(255, 173, 173, .2);
+  --custom-panels-misc: rgba(219, 141, 255, .2);
+  --custom-border-radius: 6px;
+}

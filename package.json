@@ -1,0 +1,26 @@
+{
+  "name": "theme-neon-quantower",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "win:copy": "xcopy /E /Y /I \"./dist\" \"C:/Quantower/app/Settings/Themes\"",
+    "win:dev": "npm run build && npm run win:copy",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "css-minimizer-webpack-plugin": "^7.0.2",
+    "glob": "^11.0.1",
+    "mini-css-extract-plugin": "^2.9.2",
+    "path": "^0.12.7",
+    "sass": "^1.86.3",
+    "sass-loader": "^16.0.5",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.99.5",
+    "webpack-cli": "^6.0.1"
+  }
+}

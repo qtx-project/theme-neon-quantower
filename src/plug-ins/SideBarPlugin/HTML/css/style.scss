@@ -1,0 +1,73 @@
+searchResults,
+searchResults collapsedPanel,
+.tickersTape {
+  background-image: radial-gradient(rgba(0, 255, 255, 0.589) 0.8px, var(--primaryBGColor) 0.8px);
+  background-size: 15px 15px;
+}
+
+#main_panel_body {
+  panelheader {
+    background-color: rgba(0, 0, 0, 0) !important;
+  }
+
+  collapsedpanel {
+    border-top: unset !important;
+  }
+}
+
+panelicon.Binds {
+  --neon-border-color: var(--panelsApp);
+  --neon-background-color: var(--custom-panels-app);
+  border-radius: var(--custom-border-radius) !important;
+
+  border-color: var(--neon-border-color) !important;
+  box-shadow: 0 0 2px 1px var(--neon-border-color) !important;
+
+  name {
+    font-family: "Calibri" !important;
+    font-size: 11px !important;
+    line-height: 11px !important;
+    text-transform: unset !important;
+  }
+
+  &::before {
+    background-color: var(--neon-background-color) !important;
+    backdrop-filter: blur(1px) !important;
+  }
+
+  * {
+    color: var(--neon-border-color) !important;
+    text-shadow: 0 0 5px var(--neon-border-color) !important;
+  }
+
+  &.Templates {
+    --neon-border-color: var(--panelsBinds);
+    --neon-background-color: var(--custom-panels-binds);
+  }
+
+  &.Analytics {
+    --neon-border-color: var(--panelsAnalytics);
+    --neon-background-color: var(--custom-panels-analytics);
+  }
+
+  &.Trading {
+    --neon-border-color: var(--panelsTrading);
+    --neon-background-color: var(--custom-panels-trading);
+  }
+
+  &.Portfolio {
+    --neon-border-color: var(--panelsPortfolio);
+    --neon-background-color: var(--custom-panels-portfolio);
+  }
+
+  &.Informational {
+    --neon-border-color: var(--panelsInformational);
+    --neon-background-color: var(--custom-panels-informational);
+  }
+
+  &.Misc {
+    --neon-border-color: var(--panelsMisc);
+    --neon-background-color: var(--custom-panels-misc);
+  }
+
+}

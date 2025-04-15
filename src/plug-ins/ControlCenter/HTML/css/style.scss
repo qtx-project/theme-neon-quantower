@@ -1,0 +1,250 @@
+startBar,
+startBar statusbar .notifications,
+.tickersTape {
+  background-image: radial-gradient(rgba(0, 255, 255, 0.589) 0.8px, var(--primaryBGColor) 0.8px);
+  background-size: 15px 15px;
+}
+
+.Templates border,
+.Analytics border,
+.Trading border,
+.Portfolio border,
+.Informational border,
+.Misc border,
+startBar logo div.mainLogo,
+#user_manager\:button,
+#lock_trading\:button,
+#workspaces\:fullname\:icon,
+#help_center,
+#notification-center,
+startBar connections item,
+#general_settings {
+  --neon-border-color: var(--panelsApp);
+  --neon-background-color: var(--custom-panels-app);
+  border-radius: var(--custom-border-radius) !important;
+
+  border-color: var(--neon-border-color);
+  box-shadow: 0 0 2px 1px var(--neon-border-color);
+  font-size: 16px;
+  border: 1px solid var(--neon-border-color) !important;
+}
+
+#right controls,
+favorites {
+  display: flex !important;
+  gap: 1.5px !important;
+}
+
+#right {
+  controls icon {
+    margin-right: 5px;
+  }
+
+  minicontrols {
+    order: 99;
+  }
+
+  #platform-time {
+    order: 88;
+  }
+}
+
+#user_manager\:button,
+#lock_trading\:button,
+#workspaces\:fullname\:icon,
+#help_center,
+#notification-center,
+#general_settings,
+startBar connections item,
+startBar logo div.mainLogo {
+  --neon-border-color: var(--panelsApp);
+  --neon-background-color: var(--custom-panels-app);
+  background: var(--neon-background-color) !important;
+  width: 37px !important;
+  height: 37px !important;
+  position: relative;
+}
+
+#user_manager\:button,
+#lock_trading\:button,
+#workspaces\:fullname\:icon,
+#notification-center,
+#help_center,
+#general_settings {
+  margin: 6px 2px 0 0;
+}
+
+#user_manager\:button::before,
+#lock_trading\:button::before,
+#workspaces\:fullname\:icon::before,
+#notification-center::before,
+#help_center::before,
+#general_settings::before,
+startBar logo div.mainLogo::after {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 36px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--neon-border-color) !important;
+  text-shadow: 0 0 12px var(--neon-border-color) !important;
+  font-family: 'Calibri', sans-serif;
+}
+
+#lock_trading\:button {
+  --neon-border-color: var(--statusOtherColor) !important;
+  --neon-background-color: var(--custom-status-other-color) !important;
+
+  &::before {
+    --neon-border-color: var(--statusOtherColor) !important;
+  }
+
+  &.close {
+    --neon-border-color: var(--statusActiveColor) !important;
+    --neon-background-color: var(--custom-status-active-color) !important;
+
+    &::before {
+      --neon-border-color: var(--statusActiveColor) !important;
+    }
+  }
+}
+
+startBar {
+  connections item {
+    margin: 6px 6px 0 0;
+    width: initial !important;
+    height: 39px !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    name,
+    ping {
+      font-weight: 800;
+      color: var(--neon-border-color) !important;
+      text-shadow: 0 0 12px var(--neon-border-color);
+      font-family: 'Calibri', sans-serif;
+    }
+  }
+
+  logo div.mainLogo {
+    margin: 0 2px 0 6px;
+
+    &::after {
+      content: "APP";
+    }
+  }
+
+  workSpaces {
+    padding: 0 !important;
+
+    lock {
+      margin: 0 !important;
+      padding: 0 !important;
+      position: unset !important;
+      transform: unset !important;
+    }
+
+    #workspaces\:fullname\:icon::before {
+      margin-top: -2px;
+    }
+  }
+}
+
+#user_manager\:button,
+startBar connections item {
+  --neon-border-color: var(--statusOtherColor) !important;
+  --neon-background-color: var(--custom-status-other-color) !important;
+
+  &.loggedIn,
+  &:has(status.active) {
+    --neon-border-color: var(--statusActiveColor) !important;
+    --neon-background-color: var(--custom-status-active-color) !important;
+  }
+}
+
+#workspaces\:fullname {
+  min-width: unset !important;
+
+  name {
+    display: none;
+    width: 0px !important;
+  }
+}
+
+/**/
+
+panelTile.Binds {
+
+  &::before,
+  border name {
+    background-color: var(--neon-background-color);
+    font-size: 16px;
+    color: var(--neon-border-color) !important;
+    text-shadow: 0 0 12px var(--neon-border-color) !important;
+  }
+
+
+  &.Templates {
+
+    border,
+    border name,
+    &::before {
+      --neon-border-color: var(--panelsBinds);
+      --neon-background-color: var(--custom-panels-binds);
+    }
+  }
+
+  &.Analytics {
+
+    border,
+    border name,
+    &::before {
+      --neon-border-color: var(--panelsAnalytics);
+      --neon-background-color: var(--custom-panels-analytics);
+    }
+  }
+
+  &.Trading {
+
+    border,
+    border name,
+    &::before {
+      --neon-border-color: var(--panelsTrading);
+      --neon-background-color: var(--custom-panels-trading);
+    }
+  }
+
+  &.Portfolio {
+
+    border,
+    border name,
+    &::before {
+      --neon-border-color: var(--panelsPortfolio);
+      --neon-background-color: var(--custom-panels-portfolio);
+    }
+  }
+
+  &.Informational {
+
+    border,
+    border name,
+    &::before {
+      --neon-border-color: var(--panelsInformational);
+      --neon-background-color: var(--custom-panels-informational);
+    }
+  }
+
+  &.Misc {
+
+    border,
+    border name,
+    &::before {
+      --neon-border-color: var(--panelsMisc);
+      --neon-background-color: var(--custom-panels-misc);
+    }
+  }
+}
