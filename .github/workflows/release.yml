@@ -24,11 +24,13 @@ jobs:
         run: |
           npm ci
           npm run build:gh
-
+          zip -r "theme.zip" "build/theme-neon-quantower"
+ 
       - name: Release
         uses: softprops/action-gh-release@v2
         with:
           files: |
+            theme.zip
             readme.md
             changelog.md
             license.txt
