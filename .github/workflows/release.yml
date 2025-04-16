@@ -29,7 +29,6 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            build/theme-neon-quantower/**/*.css
             readme.md
             changelog.md
             license.txt
