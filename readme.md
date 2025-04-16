@@ -26,6 +26,7 @@ This theme is currently in **beta**. Updates will likely be made
 ## Install
 
 Installation:
+
 0. Download the release.
 1. Add the CSS files to the Quantower resources folder.
 2. Apply the theme via Quantower settings.
