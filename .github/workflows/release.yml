@@ -23,7 +23,7 @@ jobs:
           npm ci
           npm run build
           mkdir -p build
-          mv dist/*.css build/
+          mv dist/theme-neon-quantower/*.css build/
 
       - name: Release
         uses: softprops/action-gh-release@v2
