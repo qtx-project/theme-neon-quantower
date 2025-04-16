@@ -2,7 +2,7 @@
 
 ![preview Quantower Neon Theme](./.github/assets/image.png)
 
-- License: [GPL-3.0 License](./license.txt)
+- License: **[GPL-3.0 License](./license.txt)**
 
 Welcome to the `Quantower Neon Theme` project! This repository
   contains a custom theme for Quantower, designed to bring a neon
