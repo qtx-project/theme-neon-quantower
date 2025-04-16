@@ -21,15 +21,13 @@ jobs:
       - name: prepare
         run: |
           npm ci
-          npm run build
-          mkdir -p build
-          mv dist/theme-neon-quantower/*.css build/
+          npm run build:gh
 
       - name: Release
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            build/*.css
+            build/theme-neon-quantower/**/*.css
             readme.md
             changelog.md
             license.txt

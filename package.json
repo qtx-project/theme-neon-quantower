@@ -9,7 +9,8 @@
   "scripts": {
     "win:copy": "xcopy /E /Y /I \"./dist\" \"C:/Quantower/app/Settings/Themes\"",
     "win:dev": "npm run build && npm run win:copy",
-    "build": "webpack"
+    "build": "webpack --env dev",
+    "build:gh": "webpack --env gh"
   },
   "devDependencies": {
     "css-loader": "^7.1.2",
