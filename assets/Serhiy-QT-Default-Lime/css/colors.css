@@ -1,0 +1,75 @@
+/**
+ * Color palette shared on the discord by a admin of quantower
+ * - Author: Serhiy (discord: themetis_ua | id: 1123619881301070016)
+ * - License: Unlicensed | ???
+ */
+:root {
+  --primaryBGColor: #161B21;
+  --secondaryBGColor: #0A0E11;
+  --middleBGColor: #12181D;
+  --primaryBorderColor: #000000;
+  --secondaryBorderColor: #152A27;
+  --primaryTextColor: #B3C987;
+
+  --secondaryTextColor: #787F77;
+  --activeTextColor: #FFFFFF;
+  --accentTextColor: #78A65A;
+  --disabledTextColor: #3E4954;
+  --infoColor: #6EDEFA;
+
+  --dangerColor: #FB5757;
+  --warningColor: #FFF40D;
+  --successColor: #00B259;
+  --successHoverColor: #32DB87;
+  --accentColor: #388397;
+  --accentHoverColor: #41A4BE;
+  --buyColor: #1BCD42;
+
+  --buyColorHover: #7AFFE4;
+  --buyColorActive: #51C2AB;
+  --sellColor: #00ACDB;
+  --sellColorHover: #FF9B78;
+  --sellColorActive: #C74A1E;
+  --statusWarningColor: #FFEA5B;
+
+  --statusActiveColor: #1EBB2C;
+  --contextMenuBGColor: #18333C;
+
+  --contextMenuBGHoverColor: #264E5A;
+  --contextMenuTextColor: #E0EEFF;
+  --contextMenuTextDisabledColor: #54808C;
+  --windowBGColor: #0B0F13;
+
+  --windowBorderExternalColor: #1E2830;
+  --windowBorderInternalColor: #161F26;
+  --windowBorderFocusedColor: #48752C;
+  --link1Color: #FB5757;
+
+  --link2Color: #78C4FF;
+  --link3Color: #1EBB2C;
+  --link4Color: #FFF40D;
+  --link5Color: #E37DFF;
+
+  --custom-accent-text-color: rgba(120, 166, 90, .3);
+
+  --panelsApp: #e6e6e6;
+  --custom-panels-app: rgba(243, 243, 243, .3) !important;
+
+  --panelsBinds: #57B9F7;
+  --custom-panels-binds: rgba(87, 185, 247, .3) !important;
+
+  --panelsAnalytics: #26E3E3;
+  --custom-panels-analytics: rgba(38, 227, 227, .3) !important;
+
+  --panelsTrading: #8FFF7F;
+  --custom-panels-trading: rgba(143, 255, 127, .3) !important;
+
+  --panelsPortfolio: #FFE27A;
+  --custom-panels-portfolio: rgba(255, 226, 122, .3) !important;
+
+  --panelsInformational: #F5A8A8;
+  --custom-panels-informational: rgba(245, 168, 168, .3) !important;
+
+  --panelsMisc: #E2A0FF;
+  --custom-panels-misc: rgba(226, 160, 255, .3) !important;
+}

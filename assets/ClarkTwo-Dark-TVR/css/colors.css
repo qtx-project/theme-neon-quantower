@@ -1,0 +1,59 @@
+/**
+ * Color palette shared on the discord by a member of quantower
+ * - Author: ClarkTwo (discord: .clarktwo | id: 1055622495065096242)
+ * - License: Unlicensed | ???
+ */
+:root {
+  --primaryBGColor: #252832;
+  --secondaryBGColor: #1C1F2A;
+  --middleBGColor: #2D2E36;
+  --primaryBorderColor: #11131B;
+  --secondaryBorderColor: #1F2230;
+  --primaryTextColor: #BBC3D5;
+
+  --secondaryTextColor: #757E90;
+  --activeTextColor: #A1B1BC;
+  --accentTextColor: #1D9BF0;
+  --disabledTextColor: #4D5268;
+  --infoColor: #6EDEFA;
+
+  --dangerColor: #EF5350;
+  --warningColor: #225CF3;
+  --successColor: #25A69A;
+  --successHoverColor: #49D1C4;
+  --accentColor: #808B8E;
+  --accentHoverColor: #2E5C68;
+  --buyColor: #25A69A;
+
+  --buyColorHover: #42CFC2;
+  --buyColorActive: #40C4B7;
+  --sellColor: #EF5350;
+  --sellColorHover: #EC6B68;
+  --sellColorActive: #F06B68;
+  --statusWarningColor: #C6B346;
+
+  --statusActiveColor: #1EBB2C;
+  --contextMenuBGColor: #1E212A;
+
+  --contextMenuBGHoverColor: #1E212E;
+  --contextMenuTextColor: #FFFFFF;
+  --contextMenuTextDisabledColor: #0782A0;
+  --windowBGColor: #1C1E21;
+
+  --windowBorderExternalColor: #212325;
+  --windowBorderInternalColor: #2F3449;
+  --windowBorderFocusedColor: #2D3347;
+  --link1Color: #FB5757;
+
+  --link2Color: #78C4FF;
+  --link3Color: #1EBB2C;
+  --link4Color: #4684C6;
+  --link5Color: #E37DFF;
+  --panelsBinds: #57B9F7;
+
+  --panelsAnalytics: #26E3E3;
+  --panelsTrading: #8FFF7F;
+  --panelsPortfolio: #FFE27A;
+  --panelsInformational: #F5A8A8;
+  --panelsMisc: #E2A0FF;
+}

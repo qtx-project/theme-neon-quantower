@@ -1,0 +1,64 @@
+/* Default Quantower Theme : https://www.quantower.com/  */
+
+:root {
+  --primaryBGColor: #D9DFEE;
+  --primaryBorderColor: #A0A8B6;
+  --secondaryBGColor: #FAFCFF;
+  --secondaryBorderColor: #C4C9D2;
+  --middleBGColor: #E0E3EA;
+
+  --primaryTextColor: #061128;
+  --secondaryTextColor: #8E96A6;
+  --activeTextColor: #000000;
+  --accentTextColor: #0058AA;
+  --disabledTextColor: #BAC1CF;
+
+  --infoColor: #2FA2BE;
+  --dangerColor: #DC4141;
+  --warningColor: #958F00;
+  --successColor: #009249;
+  --successHoverColor: #00A854;
+
+  --accentColor: #4AA9FF;
+  --accentHoverColor: #2A81D0;
+  --buyColor: #009393;
+  --buyColorHover: #0EA7A7;
+  --buyColorActive: #007F7F;
+  --sellColor: #DB4862;
+  --sellColorHover: #EE6B83;
+  --sellColorActive: #C33851;
+
+  --statusWarningColor: #FFEA5B;
+  --statusActiveColor: #1EBB2C;
+
+  --contextMenuBGColor: #4A7EAE;
+  --contextMenuBGHoverColor: #5E98CD;
+  --contextMenuTextColor: #FFFFFF;
+  --contextMenuTextDisabledColor: #72A3D0;
+
+  --windowBorderExternalColor: #B3C0D7;
+  --windowBorderInternalColor: #8F94A3;
+  --windowBGColor: #E8EAED;
+  --windowBorderFocusedColor: #035CFF;
+
+  --link1Color: #CF0D0D;
+  --link2Color: #006BE3;
+  --link3Color: #00952E;
+  --link4Color: #AF7E00;
+  --link5Color: #A600D5;
+
+  --panelsBinds: #2585c2;
+  --panelsAnalytics: #219292;
+  --panelsTrading: #2a941b;
+  --panelsPortfolio: #a3851a;
+  --panelsInformational: #b25353;
+  --panelsMisc: #b267d3;
+  --panelsMarket: #7373E5;
+
+  --leftBack_url: url('../../../../Themes/Light%20Water/plug-ins/ConnectionScreenPlugin/HTML/images/leftBack.png') !important;
+  --rightBack_url: url('../../../../Themes/Light%20Water/plug-ins/ConnectionScreenPlugin/HTML/images/rightBack.png') !important;
+  --welcome_back_url: url('../../../../Themes/Light%20Water/plug-ins/WelcomeScreenPlugin/HTML/img/welcome_back.jpg') !important;
+  --aboutscreen_back_url: url('../../../../Themes/Light%20Water/plug-ins/ControlCenter/HTML/images/Frame.png') !important;
+  --aboutscreen_aboutlogo_url: url('../../../../Themes/Light%20Water/plug-ins/ControlCenter/HTML/images/aboutLogo.png') !important;
+  --mainlogo_url: url('../../../../Themes/Light%20Water/plug-ins/ControlCenter/HTML/images/mainLogo.png') !important;
+}

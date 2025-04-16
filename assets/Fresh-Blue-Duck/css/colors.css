@@ -1,0 +1,60 @@
+/**
+ * Color palette shared on the discord by a member of quantower
+ * - Author: Fresh (discord: fresh0563 | id: 603983843862642688)
+ * - Ytb: https://www.youtube.com/channel/UCxBnds2KTz-JyS7MZxszKsw
+ * - License: Unlicensed | ???
+ */
+:root {
+  --primaryBGColor: #172E36;
+  --secondaryBGColor: #0F1D23;
+  --middleBGColor: #00566C;
+  --primaryBorderColor: #505050;
+  --secondaryBorderColor: #B82674;
+  --primaryTextColor: #BAC7D7;
+
+  --secondaryTextColor: #FDF2D0;
+  --activeTextColor: #FFFFFF;
+  --accentTextColor: #0782A0;
+  --disabledTextColor: #6C6C6C;
+  --infoColor: #6EDEFA;
+
+  --dangerColor: #BB2719;
+  --warningColor: #F7BA00;
+  --successColor: #00C1FB;
+  --successHoverColor: #00F97D;
+  --accentColor: #00566C;
+  --accentHoverColor: #0782A0;
+  --buyColor: #0782A0;
+
+  --buyColorHover: #0782A0;
+  --buyColorActive: #0782A0;
+  --sellColor: #B8922F;
+  --sellColorHover: #B8922F;
+  --sellColorActive: #B8922F;
+  --statusWarningColor: #E8CC0C;
+
+  --statusActiveColor: #0AD91C;
+  --contextMenuBGColor: #00566C;
+
+  --contextMenuBGHoverColor: #0782A0;
+  --contextMenuTextColor: #FFFFFF;
+  --contextMenuTextDisabledColor: #0782A0;
+  --windowBGColor: #131E28;
+
+  --windowBorderExternalColor: #7A611C;
+  --windowBorderInternalColor: #7A611C;
+  --windowBorderFocusedColor: #EAC451;
+  --link1Color: #FB5757;
+
+  --link2Color: #78C4FF;
+  --link3Color: #1EBB2C;
+  --link4Color: #FFF40D;
+  --link5Color: #E37DFF;
+  --panelsBinds: #4AA2D9;
+
+  --panelsAnalytics: #12B6B6;
+  --panelsTrading: #7AD36D;
+  --panelsPortfolio: #CDB356;
+  --panelsInformational: #C58585;
+  --panelsMisc: #B782CF;
+}

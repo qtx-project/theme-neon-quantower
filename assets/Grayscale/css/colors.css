@@ -1,0 +1,64 @@
+/* Default Quantower Theme : https://www.quantower.com/  */
+
+:root {
+  --primaryBGColor: #EAEAEA;
+  --primaryBorderColor: #BEBEBE;
+  --secondaryBGColor: #FFFFFF;
+  --secondaryBorderColor: #CDCDCD;
+  --middleBGColor: #F4F4F4;
+
+  --primaryTextColor: #383838;
+  --secondaryTextColor: #616161;
+  --activeTextColor: #000000;
+  --accentTextColor: #000000;
+  --disabledTextColor: #B3B3B3;
+
+  --infoColor: #2FA2BE;
+  --dangerColor: #DC4141;
+  --warningColor: #958F00;
+  --successColor: #009249;
+  --successHoverColor: #00A854;
+
+  --accentColor: #939393;
+  --accentHoverColor: #545454;
+  --buyColor: #128A28;
+  --buyColorHover: #14AC30;
+  --buyColorActive: #067019;
+  --sellColor: #DF5039;
+  --sellColorHover: #F66E58;
+  --sellColorActive: #C6412B;
+
+  --statusWarningColor: #FFEA5B;
+  --statusActiveColor: #1EBB2C;
+
+  --contextMenuBGColor: #6F6F6F;
+  --contextMenuBGHoverColor: #9C9C9C;
+  --contextMenuTextColor: #FFFFFF;
+  --contextMenuTextDisabledColor: #9A9A9A;
+
+  --windowBorderExternalColor: #CBCBCB;
+  --windowBorderInternalColor: #B9B9B9;
+  --windowBGColor: #DEE7DE;
+  --windowBorderFocusedColor: #000000;
+
+  --link1Color: #CF0D0D;
+  --link2Color: #006BE3;
+  --link3Color: #00952E;
+  --link4Color: #AF7E00;
+  --link5Color: #A600D5;
+
+  --panelsBinds: #2585c2;
+  --panelsAnalytics: #219292;
+  --panelsTrading: #2a941b;
+  --panelsPortfolio: #a3851a;
+  --panelsInformational: #b25353;
+  --panelsMisc: #b267d3;
+  --panelsMarket: #7373E5;
+
+  --leftBack_url: url('../../../../Themes/Grayscale/plug-ins/ConnectionScreenPlugin/HTML/images/leftBack.png') !important;
+  --rightBack_url: url('../../../../Themes/Grayscale/plug-ins/ConnectionScreenPlugin/HTML/images/rightBack.png') !important;
+  --welcome_back_url: url('../../../../Themes/Grayscale/plug-ins/WelcomeScreenPlugin/HTML/img/welcome_back.jpg') !important;
+  --aboutscreen_back_url: url('../../../../Themes/Grayscale/plug-ins/ControlCenter/HTML/images/Frame.png') !important;
+  --aboutscreen_aboutlogo_url: url('../../../../Themes/Grayscale/plug-ins/ControlCenter/HTML/images/aboutLogo.png') !important;
+  --mainlogo_url: url('../../../../Themes/Grayscale/plug-ins/ControlCenter/HTML/images/mainLogo.png') !important;
+}

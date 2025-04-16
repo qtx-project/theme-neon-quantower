@@ -1,8 +1,13 @@
 :root {
-  --custom-accent-text-color: rgba(110, 222, 250, 0.3);
+  --statusOtherColor: #FF1B00;
+  --statusWarningColor: #FFEA5B;
+  --statusActiveColor: #1EBB2C;
   --custom-status-warning-color: rgba(255, 234, 91, .3);
   --custom-status-active-color: rgba(30, 187, 44, .3);
   --custom-status-other-color: rgba(255, 27, 0, .3);
+  
+  --panelsApp: #d3d3d3;
+  --custom-accent-text-color: rgba(110, 222, 250, 0.3);
   --custom-panels-app: rgba(211, 211, 211, .3);
   --custom-panels-binds: rgba(74, 162, 217, .2);
   --custom-panels-analytics: rgba(18, 182, 182, 0.2);

@@ -1,0 +1,63 @@
+/* Default Quantower Theme : https://www.quantower.com/  */
+:root {
+  --primaryBGColor: #293543;
+  --primaryBorderColor: #111A23;
+  --secondaryBGColor: #202D3B;
+  --secondaryBorderColor: #2C3642;
+  --middleBGColor: #23313F;
+
+  --primaryTextColor: #ECD5C5;
+  --secondaryTextColor: #8A8079;
+  --activeTextColor: #FFFFFF;
+  --accentTextColor: #FEAC76;
+  --disabledTextColor: #474747;
+
+  --infoColor: #6EDEFA;
+  --dangerColor: #FB5757;
+  --warningColor: #FFF40D;
+  --successColor: #00B259;
+  --successHoverColor: #32DB87;
+  --accentColor: #97572A;
+  --accentHoverColor: #BD6C35;
+
+  --buyColor: #43AA5A;
+  --buyColorHover: #52C66C;
+  --buyColorActive: #24873A;
+  --sellColor: #E24B4B;
+  --sellColorHover: #F46161;
+  --sellColorActive: #D43A3A;
+
+  --statusWarningColor: #FFEA5B;
+  --statusActiveColor: #1EBB2C;
+
+  --contextMenuBGColor: #A06135;
+  --contextMenuBGHoverColor: #CE8958;
+  --contextMenuTextColor: #FFF8F4;
+  --contextMenuTextDisabledColor: #CE8958;
+
+  --windowBorderExternalColor: #1A2634;
+  --windowBorderInternalColor: #293543;
+  --windowBGColor: #1A2634;
+  --windowBorderFocusedColor: #DC8D56;
+
+  --link1Color: #FB5757;
+  --link2Color: #78C4FF;
+  --link3Color: #1EBB2C;
+  --link4Color: #FFF40D;
+  --link5Color: #E37DFF;
+
+  --panelsBinds: #4aa2d9;
+  --panelsAnalytics: #12b6b6;
+  --panelsTrading: #7ad36d;
+  --panelsPortfolio: #cdb356;
+  --panelsInformational: #c58585;
+  --panelsMisc: #b782cf;
+  --panelsMarket: #A0A0FF;
+
+  --leftBack_url: url('../../../../Themes/Dark%20Autumn/plug-ins/ConnectionScreenPlugin/HTML/images/leftBack.png') !important;
+  --rightBack_url: url('../../../../Themes/Dark%20Autumn/plug-ins/ConnectionScreenPlugin/HTML/images/rightBack.png') !important;
+  --welcome_back_url: url('../../../../Themes/Dark%20Autumn/plug-ins/WelcomeScreenPlugin/HTML/img/welcome_back.jpg') !important;
+  --aboutscreen_back_url: url('../../../../Themes/Dark%20Autumn/plug-ins/ControlCenter/HTML/images/Frame.png') !important;
+  --aboutscreen_aboutlogo_url: url('../../../../Themes/Dark%20Autumn/plug-ins/ControlCenter/HTML/images/aboutLogo.png') !important;
+  --mainlogo_url: url('../../../../Themes/Dark%20Autumn/plug-ins/ControlCenter/HTML/images/mainLogo.png') !important;
+}

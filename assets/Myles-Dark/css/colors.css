@@ -1,0 +1,60 @@
+/**
+ * Color palette shared on the discord by a member of quantower
+ * - Author: Myles (discord: h4x_•Trader | id: 1011868134623424522)
+ * - Website: https: //quantguard.io/
+ * - License: Unlicensed | ???
+ */
+:root {
+  --primaryBGColor: #1E1F24;
+  --primaryBorderColor: #292A30;
+  --secondaryBGColor: #25262C;
+  --secondaryBorderColor: #313239;
+  --middleBGColor: #2C2D33;
+
+  --primaryTextColor: #E5E6EB;
+  --secondaryTextColor: #B0B1B8;
+  --activeTextColor: #FFFFFF;
+  --accentTextColor: #56CCF2;
+  --disabledTextColor: #64666C;
+
+  --infoColor: #56CCF2;
+  --dangerColor: #EB5757;
+  --warningColor: #F2C94C;
+  --successColor: #27AE60;
+  --successHoverColor: #6FCF97;
+  --accentColor: #2D9CDB;
+  --accentHoverColor: #2F80ED;
+
+  --buyColor: #1ABC9C;
+  --buyColorHover: #48E5C2;
+  --buyColorActive: #16A085;
+  --sellColor: #E74C3C;
+  --sellColorHover: #F1948A;
+  --sellColorActive: #C0392B;
+
+  --contextMenuBGColor: #2D9CDB;
+  --contextMenuBGHoverColor: #2F80ED;
+  --contextMenuTextColor: #FFFFFF;
+  --contextMenuTextDisabledColor: #56CCF2;
+
+  --windowBorderExternalColor: #25262C;
+  --windowBorderInternalColor: #313239;
+  --windowBGColor: #25262C;
+  --windowBorderFocusedColor: #2D9CDB;
+
+  --link1Color: #EB5757;
+  --link2Color: #2D9CDB;
+  --link3Color: #27AE60;
+  --link4Color: #F2C94C;
+  --link5Color: #BB6BD9;
+
+  --panelsAnalytics: #1DDBB6;
+  --panelsTrading: #27AE60;
+  --panelsPortfolio: #F2C94C;
+  --panelsMisc: #9B51E0;
+  --panelsMarket: #6FCF97;
+
+  --panelsBinds: #6bc6ff;
+  --panelsInformational: #FF4500;
+  --custom-panels-informational: rgba(255, 69, 0, .2) !important;
+}

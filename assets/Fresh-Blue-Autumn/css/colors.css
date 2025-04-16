@@ -1,0 +1,69 @@
+/**
+ * Color palette shared on the discord by a member of quantower
+ * - Author: Fresh (discord: fresh0563 | id: 603983843862642688)
+ * - Ytb: https://www.youtube.com/channel/UCxBnds2KTz-JyS7MZxszKsw
+ * - License: Unlicensed | ???
+ */
+:root {
+  --primaryBGColor: #17222E;
+  --secondaryBGColor: #202D3B;
+  --middleBGColor: #000000;
+  --primaryBorderColor: #505050;
+  --secondaryBorderColor: #B8922F;
+  --primaryTextColor: #CECECE;
+
+  --secondaryTextColor: #ADADAD;
+  --activeTextColor: #FFFFFF;
+  --accentTextColor: #A7C4E5;
+  --disabledTextColor: #8F8F8F;
+  --infoColor: #6EDEFA;
+
+  --dangerColor: #FB5757;
+  --warningColor: #EAC451;
+  --successColor: #00FF17;
+  --successHoverColor: #32DB87;
+  --accentColor: #4684C6;
+  --accentHoverColor: #FFFFFF;
+  --buyColor: #5083C1;
+
+  --buyColorHover: #5083C1;
+  --buyColorActive: #5083C1;
+  --sellColor: #8F8F8F;
+  --sellColorHover: #8F8F8F;
+  --sellColorActive: #8F8F8F;
+  --statusWarningColor: #FFEA5B;
+
+  --statusActiveColor: #00FF17;
+  --contextMenuBGColor: #1F5288;
+
+  --contextMenuBGHoverColor: #686767;
+  --contextMenuTextColor: #CECECE;
+  --contextMenuTextDisabledColor: #000000;
+  --windowBGColor: #6C6C6C;
+
+  --windowBorderExternalColor: #000000;
+  --windowBorderInternalColor: #000000;
+  --windowBorderFocusedColor: #4684C6;
+  --link1Color: #FB5757;
+
+  --link2Color: #78C4FF;
+  --link3Color: #1EBB2C;
+  --link4Color: #FFF40D;
+  --link5Color: #E37DFF;
+  --panelsBinds: #4AA2D9;
+
+  --panelsAnalytics: #12B6B6;
+  --panelsTrading: #7AD36D;
+  --panelsPortfolio: #CDB356;
+  --panelsInformational: #C58585;
+  --panelsMisc: #C3822C;
+
+  --leftBack_url: url('../../../../Themes/Dark%20Autumn/plug-ins/ConnectionScreenPlugin/HTML/images/leftBack.png') !important;
+  --rightBack_url: url('../../../../Themes/Dark%20Autumn/plug-ins/ConnectionScreenPlugin/HTML/images/rightBack.png') !important;
+  --welcome_back_url: url('../../../../Themes/Dark%20Autumn/plug-ins/WelcomeScreenPlugin/HTML/img/welcome_back.jpg') !important;
+  --aboutscreen_back_url: url('../../../../Themes/Dark%20Autumn/plug-ins/ControlCenter/HTML/images/Frame.png') !important;
+  --aboutscreen_aboutlogo_url: url('../../../../Themes/Dark%20Autumn/plug-ins/ControlCenter/HTML/images/aboutLogo.png') !important;
+  --mainlogo_url: url('../../../../Themes/Dark%20Autumn/plug-ins/ControlCenter/HTML/images/mainLogo.png') !important;
+
+  --custom-panels-misc: rgba(195, 130, 44, .2) !important;
+}

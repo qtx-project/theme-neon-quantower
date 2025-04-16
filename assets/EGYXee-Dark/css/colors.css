@@ -1,0 +1,59 @@
+/**
+ * Color palette shared on the discord by a member of quantower
+ * - Author: EGYXee (discord: egypte | id: 809797362851512351)
+ * - License: Unlicensed | ???
+ */ 
+ :root {
+   --primaryBGColor: #26272A;
+   --secondaryBGColor: #1A1B1D;
+   --middleBGColor: #222428;
+   --primaryBorderColor: #0E0F18;
+   --secondaryBorderColor: #252937;
+   --primaryTextColor: #C9C3C3;
+
+   --secondaryTextColor: #626262;
+   --activeTextColor: #FFFFFF;
+   --accentTextColor: #C9C3C3;
+   --disabledTextColor: #3F444B;
+   --infoColor: #5083C1;
+
+   --dangerColor: #FB5757;
+   --warningColor: #FFF40D;
+   --successColor: #00B259;
+   --successHoverColor: #32DB87;
+   --accentColor: #3E5064;
+   --accentHoverColor: #A14E44;
+   --buyColor: #2F8265;
+
+   --buyColorHover: #36AD83;
+   --buyColorActive: #286851;
+   --sellColor: #DC5656;
+   --sellColorHover: #E87171;
+   --sellColorActive: #944040;
+   --statusWarningColor: #FFEA5B;
+
+   --statusActiveColor: #1EBB2C;
+   --contextMenuBGColor: #1E1F22;
+
+   --contextMenuBGHoverColor: #323643;
+   --contextMenuTextColor: #DEDBDB;
+   --contextMenuTextDisabledColor: #626466;
+   --windowBGColor: #1E1F22;
+
+   --windowBorderExternalColor: #131010;
+   --windowBorderInternalColor: #170F0F;
+   --windowBorderFocusedColor: #7F4038;
+   --link1Color: #FB5757;
+
+   --link2Color: #78C4FF;
+   --link3Color: #1EBB2C;
+   --link4Color: #FFF40D;
+   --link5Color: #E37DFF;
+   --panelsBinds: #FFFFFF;
+
+   --panelsAnalytics: #2A8A7E;
+   --panelsTrading: #EEC35B;
+   --panelsPortfolio: #DB7B2F;
+   --panelsInformational: #D7695C;
+   --panelsMisc: #506282;
+ }

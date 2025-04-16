@@ -1,0 +1,69 @@
+/**
+ * Color palette shared on the discord by a member of quantower
+ * - Author: Myles (discord: h4x_•Trader | id: 1011868134623424522)
+ * - Website: https: //quantguard.io/
+ * - License: Unlicensed | ???
+ */
+:root {
+  --primaryBGColor: #1B1E24;
+  --primaryBorderColor: #2A2D32;
+  --secondaryBGColor: #24272D;
+  --secondaryBorderColor: #32353B;
+  --middleBGColor: #2D3036;
+  --primaryTextColor: #E0E0E0;
+  --secondaryTextColor: #B3B3B3;
+  --activeTextColor: #FFFFFF;
+  --accentTextColor: #FF4D4D;
+  --disabledTextColor: #747474;
+  --infoColor: #FF4D4D;
+  --dangerColor: #D72638;
+  --warningColor: #FFC300;
+  --successColor: #3AB54A;
+  --successHoverColor: #50C95F;
+  --accentColor: #992525;
+  --accentHoverColor: #B53636;
+  --buyColor: #27AE60;
+  --buyColorHover: #3FD17C;
+  --buyColorActive: #219150;
+  --sellColor: #992525;
+  --sellColorHover: #B53636;
+  --sellColorActive: #701C1C;
+  --contextMenuBGColor: #24272D;
+  --contextMenuBGHoverColor: #32353B;
+  --contextMenuTextColor: #FFFFFF;
+  --contextMenuTextDisabledColor: #FF4D4D;
+  --windowBorderExternalColor: #2A2D32;
+  --windowBorderInternalColor: #32353B;
+  --windowBGColor: #1B1E24;
+  --windowBorderFocusedColor: #FF4D4D;
+  --link1Color: #D72638;
+  --link2Color: #FF4D4D;
+  --link3Color: #3AB54A;
+  --link4Color: #FFC300;
+  --link5Color: #992525;
+  --panelsMarket: #27AE60;
+
+
+  --custom-accent-text-color: rgba(255, 77, 77, .3);
+
+  --panelsApp: #e6e6e6;
+  --custom-panels-app: rgba(243, 243, 243, .3) !important;
+
+  --panelsBinds: #FF4D4D;
+  --custom-panels-binds: rgba(255, 77, 77, .2) !important;
+
+  --panelsAnalytics: #3AB54A;
+  --custom-panels-analytics: rgba(58, 181, 74, .2) !important;
+
+  --panelsTrading: #D72638;
+  --custom-panels-trading: rgba(215, 38, 56, .2) !important;
+
+  --panelsPortfolio: #FFC300;
+  --custom-panels-portfolio: rgba(255, 195, 0, .2) !important;
+
+  --panelsInformational: #D72638;
+  --custom-panels-informational: rgba(215, 38, 56, .2) !important;
+
+  --panelsMisc: #B53636;
+  --custom-panels-misc: rgba(181, 54, 54, .2) !important;
+}

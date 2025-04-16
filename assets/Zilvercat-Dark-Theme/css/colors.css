@@ -1,0 +1,77 @@
+/**
+ * Color palette shared on the discord by a member of quantower
+ * - Author: Zilvercat (discord: Zilvercat | id: 1154480422181421116)
+ * - Website: https: //orderflow.zilvercat.com/
+ * - License: Unlicensed | ???
+ */
+:root {
+  --primaryBGColor: #262626;
+  --secondaryBGColor: #1B1B1B;
+  --middleBGColor: #2D2D2D;
+  --primaryBorderColor: #333333;
+  --secondaryBorderColor: #404040;
+  --primaryTextColor: #E0E0E0;
+
+  --secondaryTextColor: #6C6C6C;
+  --activeTextColor: #FFFFFF;
+  --accentTextColor: #9F9FFD;
+  --disabledTextColor: #666666;
+  --infoColor: #9F9FFD;
+
+  --dangerColor: #634FA2;
+  --warningColor: #EAC451;
+  --successColor: #61A4F5;
+  --successHoverColor: #8B7DBE;
+  --accentColor: #6C6C6C;
+  --accentHoverColor: #CECECE;
+  --buyColor: #5083C1;
+
+  --buyColorHover: #61A4F5;
+  --buyColorActive: #214F86;
+  --sellColor: #6F42C1;
+  --sellColorHover: #9B72E7;
+  --sellColorActive: #5A2E8C;
+  --statusWarningColor: #EAC451;
+
+  --statusActiveColor: #8B7DBE;
+  --contextMenuBGColor: #333333;
+
+  --contextMenuBGHoverColor: #404040;
+  --contextMenuTextColor: #E0E0E0;
+  --contextMenuTextDisabledColor: #666666;
+  --windowBGColor: #1B1B1B;
+
+  --windowBorderExternalColor: #262626;
+  --windowBorderInternalColor: #333333;
+  --windowBorderFocusedColor: #7D4EAC;
+  --link1Color: #ADADAD;
+
+  --link2Color: #9F9FFD;
+  --link3Color: #28A745;
+  --link4Color: #5083C1;
+  --link5Color: #ADADAD;
+
+
+  --custom-accent-text-color: rgba(159, 159, 253, .3);
+
+  --panelsApp: #e6e6e6;
+  --custom-panels-app: rgba(243, 243, 243, 0.3) !important;
+
+  --panelsBinds: #d5c9f1;
+  --custom-panels-binds: rgba(225, 213, 253, 0.3) !important;
+
+  --panelsAnalytics: #c9b7f5;
+  --custom-panels-analytics: rgba(207, 188, 253, 0.3) !important;
+
+  --panelsTrading: #b69df5;
+  --custom-panels-trading: rgba(183, 157, 250, 0.3) !important;
+
+  --panelsPortfolio: #ad8efc;
+  --custom-panels-portfolio: rgba(175, 143, 255, 0.3) !important;
+
+  --panelsInformational: #a683ff;
+  --custom-panels-informational: rgba(163, 126, 255, 0.3) !important;
+
+  --panelsMisc: #a17bff;
+  --custom-panels-misc: rgba(150, 109, 255, 0.3) !important;
+}

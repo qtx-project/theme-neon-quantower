@@ -1,13 +1,15 @@
+/* Default Quantower Theme : https://www.quantower.com/  */
+
 :root {
-  --primaryBGColor: #000000;
-  --secondaryBGColor: #171717;
-  --middleBGColor: #2F2F2F;
-  --primaryBorderColor: #505050;
+  --primaryBGColor: #252E37;
+  --primaryBorderColor: #0E1318;
+  --secondaryBGColor: #131E28;
   --secondaryBorderColor: #252E37;
+  --middleBGColor: #1C262F;
+
   --primaryTextColor: #BAC7D7;
   --secondaryTextColor: #6E7780;
   --activeTextColor: #FFFFFF;
-
   --accentTextColor: #6EDEFA;
   --disabledTextColor: #3E4954;
 
@@ -16,15 +18,13 @@
   --warningColor: #FFF40D;
   --successColor: #00B259;
   --successHoverColor: #32DB87;
-
   --accentColor: #00566C;
   --accentHoverColor: #0782A0;
 
-  --buyColor: #40A100;
+  --buyColor: #37DBBA;
   --buyColorHover: #7AFFE4;
   --buyColorActive: #51C2AB;
-
-  --sellColor: #FF1B00;
+  --sellColor: #EB602F;
   --sellColorHover: #FF9B78;
   --sellColorActive: #C74A1E;
 
@@ -36,10 +36,10 @@
   --contextMenuTextColor: #FFFFFF;
   --contextMenuTextDisabledColor: #0782A0;
 
-  --windowBGColor: ;
-  --windowBorderExternalColor: ;
-  --windowBorderInternalColor: ;
-  --windowBorderFocusedColor: #6EDEFA;
+  --windowBorderExternalColor: #131E28;
+  --windowBorderInternalColor: #252E37;
+  --windowBGColor: #131E28;
+  --windowBorderFocusedColor: #00566C;
 
   --link1Color: #FB5757;
   --link2Color: #78C4FF;
@@ -47,11 +47,11 @@
   --link4Color: #FFF40D;
   --link5Color: #E37DFF;
 
-  --panelsBinds: #6bc6ff;
-  --panelsAnalytics: #2cf7f7;
-  --panelsTrading: #a6ff98;
-  --panelsPortfolio: #ffe483;
-  --panelsInformational: #ff9e9e;
-  --panelsMisc: #e2a7fd;
+  --panelsBinds: #4aa2d9;
+  --panelsAnalytics: #12b6b6;
+  --panelsTrading: #7ad36d;
+  --panelsPortfolio: #cdb356;
+  --panelsInformational: #c58585;
+  --panelsMisc: #b782cf;
   --panelsMarket: #A0A0FF;
 }

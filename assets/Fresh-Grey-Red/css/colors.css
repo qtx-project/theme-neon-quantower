@@ -1,0 +1,67 @@
+/**
+ * Color palette shared on the discord by a member of quantower
+ * - Author: Fresh (discord: fresh0563 | id: 603983843862642688)
+ * - Ytb: https://www.youtube.com/channel/UCxBnds2KTz-JyS7MZxszKsw
+ * - License: Unlicensed | ???
+ */
+:root {
+  --primaryBGColor: #282C34;
+  --secondaryBGColor: #202329;
+  --middleBGColor: #23272D;
+  --primaryBorderColor: #181A1F;
+  --secondaryBorderColor: #313640;
+  --primaryTextColor: #D0C8BB;
+
+  --secondaryTextColor: #8F8F8F;
+  --activeTextColor: #FFFFFF;
+  --accentTextColor: #DE9D9B;
+  --disabledTextColor: #3F4653;
+  --infoColor: #6EDEFA;
+
+  --dangerColor: #8C1A10;
+  --warningColor: #FFF40D;
+  --successColor: #0FF2D7;
+  --successHoverColor: #0FF2D7;
+  --accentColor: #BB2719;
+  --accentHoverColor: #D16D69;
+  --buyColor: #CECECE;
+
+  --buyColorHover: #CECECE;
+  --buyColorActive: #CECECE;
+  --sellColor: #BB2719;
+  --sellColorHover: #BB2719;
+  --sellColorActive: #B23226;
+  --statusWarningColor: #FFEA5B;
+
+  --statusActiveColor: #0FF2D7;
+  --contextMenuBGColor: #505050;
+
+  --contextMenuBGHoverColor: #D16D69;
+  --contextMenuTextColor: #FFFFFF;
+  --contextMenuTextDisabledColor: #DE9D9B;
+  --windowBGColor: #202329;
+
+  --windowBorderExternalColor: #202329;
+  --windowBorderInternalColor: #282C34;
+  --windowBorderFocusedColor: #BB2719;
+  --link1Color: #FB5757;
+
+  --link2Color: #78C4FF;
+  --link3Color: #1EBB2C;
+  --link4Color: #FFF40D;
+  --link5Color: #E37DFF;
+  --panelsBinds: #4AA2D9;
+
+  --panelsAnalytics: #12B6B6;
+  --panelsTrading: #7AD36D;
+  --panelsPortfolio: #CDB356;
+  --panelsInformational: #C58585;
+  --panelsMisc: #B782CF;
+
+  --leftBack_url: url('../../../../Themes/Dark%20Gold/plug-ins/ConnectionScreenPlugin/HTML/images/leftBack.png') !important;
+  --rightBack_url: url('../../../../Themes/Dark%20Gold/plug-ins/ConnectionScreenPlugin/HTML/images/rightBack.png') !important;
+  --welcome_back_url: url('../../../../Themes/Dark%20Gold/plug-ins/WelcomeScreenPlugin/HTML/img/welcome_back.jpg') !important;
+  --aboutscreen_back_url: url('../../../../Themes/Dark%20Gold/plug-ins/ControlCenter/HTML/images/Frame.png') !important;
+  --aboutscreen_aboutlogo_url: url('../../../../Themes/Dark%20Gold/plug-ins/ControlCenter/HTML/images/aboutLogo.png') !important;
+  --mainlogo_url: url('../../../../Themes/Dark%20Gold/plug-ins/ControlCenter/HTML/images/mainLogo.png') !important;
+}
