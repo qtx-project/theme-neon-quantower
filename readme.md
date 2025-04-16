@@ -1,5 +1,7 @@
 # Quantower Neon Theme
 
+![preview Quantower Neon Theme](./.github/assets/image.png)
+
 - License: [GPL-3.0 License](./license.txt)
 
 Welcome to the `Quantower Neon Theme` project! This repository
@@ -33,6 +35,4 @@ Installation:
 This theme is distributed under the [GPL-3.0 License](./license.txt), 
   which allows you to use, modify and share it freely under the conditions 
   of this license.
-
-### Preview
-
+ 
