@@ -1,10 +1,12 @@
 name: Create Github Release
 run-name: ${{ github.actor }} - Create Github Release
+
 on:
   push:
     tags:
       - "*.*.*"
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
