@@ -35,4 +35,3 @@ Installation:
 This theme is distributed under the [GPL-3.0 License](./license.txt), 
   which allows you to use, modify and share it freely under the conditions 
   of this license.
- 
