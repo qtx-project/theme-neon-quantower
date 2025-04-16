@@ -21,7 +21,7 @@ jobs:
       - name: prepare
         run: |
           npm ci
-          npm build
+          npm run build
           mkdir -p build
           mv dist/*.css build/
 
