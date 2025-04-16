@@ -27,7 +27,8 @@ This theme is currently in **beta**. Updates will likely be made
 
 Installation:
 
-0. Download the release.
+0. Download the [last release](https://github.com/qtx-project/theme-neon-quantower/releases).
+1. O
 1. Add the CSS files to the Quantower resources folder.
 2. Apply the theme via Quantower settings.
 
