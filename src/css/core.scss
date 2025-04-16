@@ -1,3 +1,18 @@
+:root {
+  --custom-accent-text-color: rgba(110, 222, 250, 0.3);
+  --custom-status-warning-color: rgba(255, 234, 91, .3);
+  --custom-status-active-color: rgba(30, 187, 44, .3);
+  --custom-status-other-color: rgba(255, 27, 0, .3);
+  --custom-panels-app: rgba(211, 211, 211, .3);
+  --custom-panels-binds: rgba(74, 162, 217, .2);
+  --custom-panels-analytics: rgba(18, 182, 182, 0.2);
+  --custom-panels-trading: rgba(122, 211, 109, 0.2);
+  --custom-panels-portfolio: rgba(205, 179, 86, 0.2);
+  --custom-panels-informational: rgba(255, 173, 173, .2);
+  --custom-panels-misc: rgba(219, 141, 255, .2);
+  --custom-border-radius: 6px;
+}
+
 button,
 input,
 panel {
