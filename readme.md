@@ -25,28 +25,28 @@ This theme is currently in **beta**. Updates will likely be made
 
 ## Install
 
-0. Download the [Latest Release](https://github.com/qtx-project/theme-neon-quantower/releases)
+### 0. Download the [Latest Release](https://github.com/qtx-project/theme-neon-quantower/releases)
 
-    Go to the GitHub releases page and download the `theme.zip` file. 
-    While you can download the entire release, only `theme.zip` is necessary 
-    for theme installation.
+Go to the GitHub releases page and download the `theme.zip` file. 
+While you can download the entire release, only `theme.zip` is necessary 
+for theme installation.
 
 ![example theme.zip release](.github/assets/image-release.png) 
 
-1. Extract the ZIP File
+### 1. Extract the ZIP File
 
-    Once the `theme.zip` file is downloaded, open it and extract the 
-    `theme-neon-quantower` folder.
+Once the `theme.zip` file is downloaded, open it and extract the 
+`theme-neon-quantower` folder.
 
-2. Move the Theme to the Appropriate Folder
+### 2. Move the Theme to the Appropriate Folder
 
-    Move the extracted theme-neon-quantower folder into your Quantower 
-    **themes directory**. This is typically located at `Quantower/Settings/Themes/..`
+Move the extracted theme-neon-quantower folder into your Quantower 
+**themes directory**. This is typically located at `Quantower/Settings/Themes/..`
 
-3. Restart Quantower
+### 3. Restart Quantower
 
-    After moving the theme, restart Quantower to apply the changes and
-    apply the theme via Quantower settings.
+After moving the theme, restart Quantower to apply the changes and
+apply the theme via Quantower settings.
 
 ## License
 
