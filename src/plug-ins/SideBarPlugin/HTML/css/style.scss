@@ -1,7 +1,7 @@
 searchResults,
 searchResults collapsedPanel,
 .tickersTape {
-  background-image: radial-gradient(rgba(0, 255, 255, 0.589) 0.8px, var(--primaryBGColor) 0.8px);
+  background-image: radial-gradient(var(--accentTextColor) 0.8px, var(--primaryBGColor) 0.8px);
   background-size: 15px 15px;
 }
 
@@ -37,7 +37,7 @@ panelicon.Binds {
 
   * {
     color: var(--neon-border-color) !important;
-    text-shadow: 0 0 5px var(--neon-border-color) !important;
+    text-shadow: var(--text-shadow) !important;
   }
 
   &.Templates {

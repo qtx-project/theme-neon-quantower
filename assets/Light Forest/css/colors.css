@@ -47,12 +47,6 @@
   --link4Color: #AF7E00;
   --link5Color: #A600D5;
 
-  --panelsBinds: #2585c2;
-  --panelsAnalytics: #219292;
-  --panelsTrading: #2a941b;
-  --panelsPortfolio: #a3851a;
-  --panelsInformational: #b25353;
-  --panelsMisc: #b267d3;
   --panelsMarket: #7373E5;
 
   --leftBack_url: url('../../../../Themes/Light%20Forest/plug-ins/ConnectionScreenPlugin/HTML/images/leftBack.png') !important;
@@ -61,4 +55,27 @@
   --aboutscreen_back_url: url('../../../../Themes/Light%20Forest/plug-ins/ControlCenter/HTML/images/Frame.png') !important;
   --aboutscreen_aboutlogo_url: url('../../../../Themes/Light%20Forest/plug-ins/ControlCenter/HTML/images/aboutLogo.png') !important;
   --mainlogo_url: url('../../../../Themes/Light%20Forest/plug-ins/ControlCenter/HTML/images/mainLogo.png') !important;
+
+  --custom-accent-text-color: rgba(255, 255, 255, .3);
+
+  --panelsApp: #575757 !important;
+  --custom-panels-app: rgba(36, 36, 36, .2) !important;
+
+  --panelsBinds: #2585c2;
+  --custom-panels-binds: rgba(37, 133, 194, .2) !important;
+
+  --panelsAnalytics: #219292;
+  --custom-panels-analytics: rgba(33, 146, 146, .2) !important;
+
+  --panelsTrading: #2a941b;
+  --custom-panels-trading: rgba(42, 148, 27, .2) !important;
+
+  --panelsPortfolio: #a3851a;
+  --custom-panels-portfolio: rgba(162, 133, 26, .2) !important;
+
+  --panelsInformational: #b25353;
+  --custom-panels-informational: rgba(178, 83, 83, .2) !important;
+
+  --panelsMisc: #b267d3;
+  --custom-panels-misc: rgba(178, 103, 211, .2) !important;
 }
