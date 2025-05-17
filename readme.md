@@ -23,15 +23,9 @@ This theme is currently in **beta**. Updates will likely be made
   the theme's vision (style improvements, visual enhancements, etc.).
   Feel free to open **issues**!
 
-## Install
+## Download And Install
 
-### 0. Download the [Latest Release](https://github.com/qtx-project/theme-neon-quantower/releases)
-
-Go to the GitHub releases page and download the `theme.zip` file. 
-  While you can download the entire release, only `theme.zip` is 
-  necessary for theme installation.
-
-![example theme.zip release](.github/assets/image-release.png) 
+- [Download the Latest Release](https://github.com/theme-neon-quantower/releases/latest/download/theme.zip)
 
 ### 1. Extract the ZIP File
 
