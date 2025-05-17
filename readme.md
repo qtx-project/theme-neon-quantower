@@ -25,17 +25,12 @@ This theme is currently in **beta**. Updates will likely be made
 
 ## Download And Install
 
-<div style={{ display: 'flex', justifyContent: 'center', marginTop: '2rem' }}>
-  <a
+<div style={{ display: 'flex', justifyContent: 'center', marginTop: '2rem' }}><a
     class="button button--primary"
     href="https://github.com/qtx-project/theme-neon-quantower/releases/latest/download/theme.zip"
     download
     target="_blank"
-    rel="noopener noreferrer"
-  >
-    Download the Latest Release
-  </a>
-</div>
+    rel="noopener noreferrer">Download the Latest Release</a></div>
 
 ### 1. Extract the ZIP File
 
