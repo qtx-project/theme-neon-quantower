@@ -1,6 +1,6 @@
 # Quantower Neon Theme
 
-![preview Quantower Neon Theme](./.github/assets/image.png)
+![preview Quantower Neon Theme](.github/assets/image.png)
 
 - License: **[GPL-3.0 License](./license.txt)**
 
