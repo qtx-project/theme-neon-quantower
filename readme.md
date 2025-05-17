@@ -17,12 +17,14 @@ This theme is my personal theme that I use on a daily basis in Quantower.
 
 ## Important Note
 
-:::warning\n
+:::warning
+
 This theme is currently in **beta**. Updates will likely be made 
   progressively based on my personal needs and preferences. However, 
   any relevant suggestions are welcome, as long as they align with 
   the theme's vision (style improvements, visual enhancements, etc.).
   Feel free to open **issues**!
+  
 :::
 
 ## Download And Install
