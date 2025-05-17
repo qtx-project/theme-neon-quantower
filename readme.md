@@ -25,7 +25,7 @@ This theme is currently in **beta**. Updates will likely be made
 
 ## Download And Install
 
-<div style="display: flex; justify-content: center; margin-top: 2rem;">
+<div style={{ display: 'flex', justifyContent: 'center', marginTop: '2rem' }}>
   <a
     class="button button--primary"
     href="https://github.com/qtx-project/theme-neon-quantower/releases/latest/download/theme.zip"
