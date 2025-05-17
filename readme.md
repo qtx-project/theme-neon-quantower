@@ -14,8 +14,8 @@ This theme is my personal theme that I use on a daily basis in Quantower.
   and pleasing to the eye. It's totally open-source and licensed under
   [GPL-3.0 License](./license.txt), so you can use it, modify it and adapt
   it to your needs.
-
-## Important Note
+ 
+## Download And Install
 
 > [!IMPORTANT]
 > This theme is currently in **beta**. Updates will likely be made 
@@ -23,8 +23,6 @@ This theme is my personal theme that I use on a daily basis in Quantower.
 >  any relevant suggestions are welcome, as long as they align with 
 >  the theme's vision (style improvements, visual enhancements, etc.).
 >  Feel free to open **issues**!
-
-## Download And Install
 
 <a
     class="button button--primary"
