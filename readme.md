@@ -17,7 +17,7 @@ This theme is my personal theme that I use on a daily basis in Quantower.
 
 ## Important Note
 
-:::warning
+:::warning\n
 This theme is currently in **beta**. Updates will likely be made 
   progressively based on my personal needs and preferences. However, 
   any relevant suggestions are welcome, as long as they align with 
