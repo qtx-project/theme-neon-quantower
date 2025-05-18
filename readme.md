@@ -9,7 +9,7 @@ Quantower Neon Theme is a custom theme for Quantower, designed to bring a neon
 This theme is my personal theme that I use on a daily basis in Quantower.
   I created it to add a touch of neon color while remaining functional
   and pleasing to the eye. It's totally open-source and licensed under
-  [GPL-3.0 License](./license.txt), so you can use it, modify it and adapt
+  GPL-3.0 License, so you can use it, modify it and adapt
   it to your needs.
  
 ## Download And Install
