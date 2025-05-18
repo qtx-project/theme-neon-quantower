@@ -42,9 +42,3 @@ Move the extracted theme-neon-quantower folder into your Quantower
 
 After moving the theme, restart Quantower to apply the changes and
 apply the theme via Quantower settings.
-
-## License
-
-This theme is distributed under the [GPL-3.0 License](./license.txt), 
-  which allows you to use, modify and share it freely under the conditions 
-  of this license.
